@@ -1,17 +1,21 @@
 
-# Himanshu Yadav - Developer Resume Website
+# 💼 Himanshu Yadav - Developer Resume Website
 
-A clean, responsive HTML resume template with a coding-themed banner background and custom profile image.
+A clean, responsive HTML resume template with a coding-themed banner background and a custom profile image.
+
+---
 
 ## 📸 Features
-- Stylish header with a background image
-- Profile image (`him.png`) included
-- Responsive layout using Bootstrap 5
-- Font Awesome icons for skills and social links
-- Easy to customize and deploy
+
+- 🖼️ Stylish header with coding/office-themed background
+- 👤 Profile image support (`him.png`)
+- 📱 Responsive layout using Bootstrap 5
+- ⭐ Font Awesome icons for skills & social media
+- ⚙️ Easy to customize and deploy
+
+---
 
 ## 🖼️ Screenshot
----
 
 ![Resume Preview](screenshot.png)
 
@@ -21,20 +25,30 @@ A clean, responsive HTML resume template with a coding-themed banner background 
 
 project/
 ├── index.html
-|__him.png
+├── him.png
+├── screenshot.png
+├── README.md
+
+---
 
 ## 🛠️ How to Use
-1. Clone or download this repo.
-2. Replace `him.png`.
-3. Open `index.html` in your browser.
-4. Customize text, skills, and sections as needed.
+
+1. Clone or download this repository.
+2. Replace `him.png` with your own profile image.
+3. Open `index.html` in your browser to preview.
+4. Customize text, sections, skills, and links as needed.
+
+---
 
 ## 💡 Tips
-- To use your own background image, update the `.resume-header` CSS background URL.
-- All images and styles are fully customizable.
+
+- Want a different background? Just update the CSS under `.resume-header` with a new image URL.
+- Add more sections or icons using [Bootstrap 5](https://getbootstrap.com/) and [Font Awesome](https://fontawesome.com/).
+
+---
 
 ## 📬 Contact
+
 **Himanshu Yadav**  
 📧 write.himanshu263@gmail.com  
 🔗 [GitHub](https://github.com/himanshu263) | [LinkedIn](https://linkedin.com/in/himanshu263)
-
