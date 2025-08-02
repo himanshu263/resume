@@ -4,6 +4,11 @@
 A clean, responsive HTML resume template with a coding-themed banner background and a custom profile image.
 
 ---
+## 🔗 Live Demo
+
+👉 [View Live Resume](https://himanshu263.github.io/resume/)
+
+---
 
 ## 📸 Features
 
