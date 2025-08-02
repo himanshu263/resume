@@ -12,7 +12,7 @@ A clean, responsive HTML resume template with a coding-themed banner background 
 
 ## 🖼️ Screenshot
 
-![Resume Preview](him.png)
+![Resume Preview](screenshot.png)
 
 ---
 ## 📂 Folder Structure
